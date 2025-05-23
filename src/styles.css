@@ -1,0 +1,20 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.tabs {
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+}
+button.active {
+  background-color: #0070f3;
+  color: white;
+}
