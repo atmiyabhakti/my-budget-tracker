@@ -1,0 +1,1 @@
+export default function LogTab() { return <div>LogTab content goes here</div>; }
